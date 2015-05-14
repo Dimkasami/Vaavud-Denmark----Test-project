@@ -1,0 +1,1 @@
+to answer the first question i suggest that  he provides me 3 basic png one for the base of the thermometer (with the grey color) the second one is for the cercle in the base of the first one, and the last one is the red bar for the temperature as you can guess now i will use relative layout to organise the full thermometer and to control the bar with the temperature level.
